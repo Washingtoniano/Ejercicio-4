@@ -1,4 +1,5 @@
-from Ventana import Ventana
+
+from ventana import Ventana
 if __name__ ==  '__main__':
 
     print('==== Ventana Inicio ====')
